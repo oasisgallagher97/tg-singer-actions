@@ -2,23 +2,39 @@
     "test_task": {
         "chats": [
             {
-                "chat_id": 1234567890,
+                "chat_id": -1002531737777,
                 "name": "签到",
                 "delete_after": null,
                 "actions": [
                     {
                         "action": 1,
-                        "text": "/start"
+                        "text": "西西里女仆真不错1"
+                    },
+                     {
+                        "action": 1,
+                        "text": "西西里女仆真不错2"
+                    },
+                     {
+                        "action": 1,
+                        "text": "西西里女仆真不错3"
+                    },
+                     {
+                        "action": 1,
+                        "text": "西西里女仆真不错4"
+                    },
+                     {
+                        "action": 1,
+                        "text": "西西里女仆真不错5"
                     },
                     {
-                        "action": 3,
+                        "action": 1,
                         "text": "签到"
                     }
                 ],
                 "action_interval": 1.0
             }
         ],
-        "sign_at": "30 10 * * *",
+        "sign_at": "45 9 * * *",
         "random_seconds": 1800,
         "sign_interval": 1
     }
